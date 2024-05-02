@@ -32,7 +32,6 @@ function Footer(){
                     <hr />
                     <p>Copyright @ 2024 - All Rights Reserved.</p>
                 </div>
-                <button class="btn" onClick={window.scrollTo(0,0)}><i class="fa-solid fa-angles-right"></i></button>
             
 
         </div>

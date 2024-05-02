@@ -12,7 +12,7 @@ function LoginSignup(){
                     <input type="password" placeholder="Password" />
                 </div>
                 <button>Continue</button>
-                <p className="loginsignup-login">Already have an account<span>Login Here</span></p>
+                <p className="loginsignup-login">Already have an account<span>&nbsp;Login Here</span></p>
                 <div className="loginsignup-agree">
                     <input type="checkbox" name="" id='' />
                     <p>By continuing, I agree to the trems of use &  privacy policy.</p>

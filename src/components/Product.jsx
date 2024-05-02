@@ -18,6 +18,7 @@ function Product(){
             <ProductDisplay product={product}/>
             <DescriptionBox />
             <Relatedproducts/>
+            <br />
 
         </div>
     )

@@ -72,6 +72,11 @@ font-size: 16px;
     border-radius: 3px;
     cursor: pointer;
 }
+.productdisplay-right-sizes div:hover{
+    color:black;
+    background-color: rgb(225, 224, 224);
+}
+
 .productdisplay-right button{
     padding: 13px 32px;
     width:200px;

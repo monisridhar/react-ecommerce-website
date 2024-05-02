@@ -13,8 +13,8 @@
 }
 
 .relatedproducts hr{
+    height: 6px;
     width:200px;
-    height: 200px;
     border-radius: 10px;
     background: #252525;
 }
